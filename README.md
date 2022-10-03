@@ -4,6 +4,8 @@ Decentralized finance (DeFi) is an emerging financial technology that challenges
 
 This Repository contains list of Common DeFi threat and Attack Vectors. This repository will be actively maintained and updated by QuillAudits.
 
+#### If you find any attack vectors missing, you call create a pull request and be a contributor of the project.
+
 
 ---
 Serial No. | Attack Vectors
